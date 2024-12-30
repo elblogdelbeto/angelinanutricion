@@ -1,0 +1,701 @@
+[
+    {
+      "Alimento": "Hígado de res",
+      "Vitamina A (mcg RAE)": 9440,
+      "Vitamina D (mcg)": 1.2,
+      "Vitamina B6 (mg)": 1,
+      "Vitamina B9 (mcg)": 253,
+      "VitaminaB12 (mcg)": 70.6,
+      "Hierro (mg)": 6.5,
+      "Zinc (mg)": 5.3,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "2 huevos",
+      "Vitamina A (mcg RAE)": 160,
+      "Vitamina D (mcg)": 2,
+      "Vitamina E (mg)": 1,
+      "Vitamina B6 (mg)": 0.15,
+      "Vitamina B9 (mcg)": 35,
+      "VitaminaB12 (mcg)": 1,
+      "Hierro (mg)": 1.8,
+      "Zinc (mg)": 1.3,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Atún en aceite en lata",
+      "Vitamina D (mcg)": 6.8,
+      "Vitamina E (mg)": 2.3,
+      "Vitamina B6 (mg)": 0.4,
+      "VitaminaB12 (mcg)": 2.2,
+      "Hierro (mg)": 0.7,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Sardinas en aceite en lata",
+      "Vitamina D (mcg)": 4.8,
+      "Vitamina E (mg)": 2,
+      "Vitamina B9 (mcg)": 8.9,
+      "VitaminaB12 (mcg)": 3,
+      "Hierro (mg)": 382,
+      "Calcio(mg)": 1.3,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Carne de res cocida",
+      "Vitamina E (mg)": 0.5,
+      "Vitamina B9 (mcg)": 2.2,
+      "VitaminaB12 (mcg)": 2.7,
+      "Calcio(mg)": 5,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Salmón cocido",
+      "Vitamina A (mcg RAE)": 67,
+      "Vitamina D (mcg)": 13.9,
+      "Vitamina E (mg)": 3.8,
+      "Vitamina B6 (mg)": 0.7,
+      "VitaminaB12 (mcg)": 3.9,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Atún en agua en lata",
+      "Vitamina D (mcg)": 2,
+      "Vitamina E (mg)": 1.2,
+      "VitaminaB12 (mcg)": 1.2,
+      "Hierro (mg)": 1,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Atún fresco",
+      "Vitamina A (mcg RAE)": 655,
+      "Vitamina D (mcg)": 5.7,
+      "Vitamina E (mg)": 1,
+      "Vitamina B6 (mg)": 0.5,
+      "VitaminaB12 (mcg)": 9.4,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Tilapia cocida",
+      "Vitamina D (mcg)": 3.7,
+      "Vitamina B6 (mg)": 0.15,
+      "VitaminaB12 (mcg)": 1.9,
+      "Hierro (mg)": 0.7,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Pechuga de pollo cocida",
+      "Vitamina E (mg)": 1,
+      "Vitamina B6 (mg)": 0.9,
+      "VitaminaB12 (mcg)": 0.5,
+      "Hierro (mg)": 1,
+      "Zinc (mg)": 1.5,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "1 muslo o pierna cocida",
+      "Vitamina E (mg)": 0.4,
+      "VitaminaB12 (mcg)": 1,
+      "Calcio(mg)": 1.5,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Mojarra cocida",
+      "Vitamina D (mcg)": 5.1,
+      "Vitamina B6 (mg)": 0.4,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "Carne de cerdo cocida",
+      "Vitamina E (mg)": 0.5,
+      "Vitamina B9 (mcg)": 1,
+      "Calcio(mg)": 2.5,
+      "Tabla": "Animales"
+    },
+    {
+      "Alimento": "1 taza de leche entera",
+      "Vitamina A (mcg RAE)": 78,
+      "Vitamina D (mcg)": 2.7,
+      "VitaminaB12 (mcg)": 1.3,
+      "Calcio (mg)": 300,
+      "Zinc (mg)": 1,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "1 taza de leche baja en grasa",
+      "Vitamina D (mcg)": 2.7,
+      "VitaminaB12 (mcg)": 1.3,
+      "Calcio (mg)": 300,
+      "Zinc (mg)": 1,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "1 taza de yogur griego bajo en grasa",
+      "Calcio (mg)": 272,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "½ taza de queso cottage",
+      "Vitamina A (mcg RAE)": 76,
+      "VitaminaB12 (mcg)": 1.7,
+      "Calcio (mg)": 113,
+      "Zinc (mg)": 1,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso Oaxaca o feta",
+      "Vitamina A (mcg RAE)": 41,
+      "Calcio (mg)": 150,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso panela",
+      "Calcio (mg)": 190,
+      "Zinc (mg)": 1,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso gouda",
+      "Vitamina A (mcg RAE)": 50,
+      "Calcio (mg)": 210,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso Chihuahua",
+      "Calcio (mg)": 195,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso manchego",
+      "Vitamina A (mcg RAE)": 64,
+      "Calcio (mg)": 268,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso mozzarella",
+      "Vitamina A (mcg RAE)": 61,
+      "Calcio (mg)": 208,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso parmesano",
+      "Vitamina A (mcg RAE)": 79,
+      "Calcio (mg)": 268,
+      "Zinc (mg)": 1,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "Queso de cabra duro",
+      "Vitamina A (mcg RAE)": 145,
+      "Calcio (mg)": 254,
+      "Zinc (mg)": 1.2,
+      "Tabla": "Lacteos"
+    },
+    {
+      "Alimento": "1 taza de frijoles cocidos",
+      "Vitamina B6 (mg)": 0.4,
+      "Vitamina B9 (mcg)": 294,
+      "Hierro (mcg)": 3.6,
+      "Magnesio (mg)": 86,
+      "Calcio (mg)": 80,
+      "Zinc (mg)": 2,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "1 taza de lentejas",
+      "Vitamina B6 (mg)": 0.4,
+      "Vitamina B9 (mcg)": 358,
+      "Hierro (mcg)": 6.6,
+      "Magnesio (mg)": 71,
+      "Calcio (mg)": 38,
+      "Zinc (mg)": 2.5,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "1 taza de garbanzos cocidos",
+      "Vitamina B6 (mg)": 0.2,
+      "Vitamina B9 (mcg)": 282,
+      "Hierro (mcg)": 4.7,
+      "Magnesio (mg)": 79,
+      "Calcio (mg)": 80,
+      "Zinc (mg)": 2.5,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "1 taza de garbanzos de lata",
+      "Vitamina B6 (mg)": 1.4,
+      "Vitamina B9 (mcg)": 72,
+      "Hierro (mcg)": 3.7,
+      "Magnesio (mg)": 81,
+      "Calcio (mg)": 104,
+      "Zinc (mg)": 2,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "½ taza de soya cocida",
+      "Hierro (mcg)": 4.4,
+      "Magnesio (mg)": 74,
+      "Calcio (mg)": 88,
+      "Zinc (mg)": 1,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "½ taza de edamames cocidos",
+      "Vitamina B9 (mcg)": 241,
+      "Hierro (mcg)": 1.8,
+      "Magnesio (mg)": 50,
+      "Calcio (mg)": 49,
+      "Zinc (mg)": 1.1,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "½ taza de chícharos cocidos",
+      "Vitamina B9 (mcg)": 50,
+      "Hierro (mcg)": 1.2,
+      "Magnesio (mg)": 31,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "1/3 de taza de frijoles molidos",
+      "Vitamina B9 (mcg)": 108,
+      "Hierro (mcg)": 1.5,
+      "Calcio (mg)": 43,
+      "Zinc (mg)": 1,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "2 tortillas de maíz",
+      "Vitamina B9 (mcg)": 2,
+      "Hierro (mcg)": 40,
+      "Magnesio (mg)": 120,
+      "Calcio (mg)": 1,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "½ taza de avena",
+      "Vitamina B9 (mcg)": 1.7,
+      "Hierro (mcg)": 55,
+      "Zinc (mg)": 1.5,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "1 taza de arroz cocido",
+      "Vitamina B9 (mcg)": 92,
+      "Hierro (mcg)": 2,
+      "Magnesio (mg)": 20,
+      "Zinc (mg)": 1,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "½ taza de quinoa cocida",
+      "Vitamina B9 (mcg)": 38,
+      "Hierro (mcg)": 1.4,
+      "Magnesio (mg)": 60,
+      "Zinc (mg)": 1,
+      "Tabla": "Leguminosas"
+    },
+    {
+      "Alimento": "1 taza de papaya",
+      "Vitamina A (mcg RAE)": 68,
+      "Vitamina C (mcg)": 86,
+      "Vitamina B9 (mcg)": 54,
+      "Magnesio (mg)": 30,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 plátano",
+      "Vitamina B6 (mg)": 0.4,
+      "Vitamina B9 (mcg)": 35,
+      "Magnesio (mg)": 35,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "3 guayabas",
+      "Vitamina C (mcg)": 227,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 toronja",
+      "Vitamina C (mcg)": 91,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 naranja",
+      "Vitamina C (mcg)": 68,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 taza de frutos rojos",
+      "Vitamina C (mcg)": 63,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "8 fresas",
+      "Vitamina C (mcg)": 60,
+      "Vitamina B9 (mcg)": 25,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 taza de mango",
+      "Vitamina A (mcg RAE)": 89,
+      "Vitamina C (mcg)": 60,
+      "Vitamina B9 (mcg)": 71,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 taza de melón",
+      "Vitamina A (mcg RAE)": 270,
+      "Vitamina C (mcg)": 60,
+      "Vitamina B9 (mcg)": 34,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "3 limas",
+      "Vitamina C (mcg)": 60,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 kiwi",
+      "Vitamina C (mcg)": 56,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "½ taza de jugo de naranja",
+      "Vitamina C (mcg)": 37,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "1 mandarina",
+      "Vitamina C (mcg)": 30,
+      "Tabla": "Frutas"
+    },
+    {
+      "Alimento": "½ taza de espinacas cocidas",
+      "Vitamina A (mcg RAE)": 472,
+      "Vitamina K (mcg)": 444,
+      "Vitamina B9 (mcg)": 131,
+      "Hierro (mg)": 3.2,
+      "Magnesio (mg)": 78,
+      "Calcio (mg)": 122,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de espinacas crudas",
+      "Vitamina A (mcg RAE)": 141,
+      "Vitamina K (mcg)": 145,
+      "Vitamina B9 (mcg)": 58,
+      "Magnesio (mg)": 24,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ taza de brócoli cocido",
+      "Vitamina A (mcg RAE)": 60,
+      "Vitamina K (mcg)": 110,
+      "Vitamina C (mg)": 51,
+      "Vitamina B9 (mcg)": 84,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de lechuga",
+      "Vitamina A (mcg RAE)": 133,
+      "Vitamina K (mcg)": 45,
+      "Vitamina B9 (mcg)": 64,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de nopal cocido",
+      "Magnesio (mg)": 70,
+      "Calcio (mg)": 244,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "2 nopales crudos",
+      "Magnesio (mg)": 68,
+      "Calcio (mg)": 220,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de coliflor cocida",
+      "Vitamina K (mcg)": 21,
+      "Vitamina C (mg)": 58,
+      "Vitamina B9 (mcg)": 76,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ taza de acelgas cocidas",
+      "Vitamina A (mcg RAE)": 268,
+      "Vitamina K (mcg)": 286,
+      "Magnesio (mg)": 75,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ taza de betabel cocido",
+      "Vitamina B9 (mcg)": 68,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1/3 de taza de camote cocido",
+      "Vitamina A (mcg RAE)": 543,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 zanahoria cruda",
+      "Vitamina A (mcg RAE)": 418,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "4 zanahorias baby",
+      "Vitamina A (mcg RAE)": 404,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 zanahoria cocida",
+      "Vitamina A (mcg RAE)": 392,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ taza de calabaza de castilla",
+      "Vitamina A (mcg RAE)": 275,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de acelgas crudas",
+      "Vitamina A (mcg RAE)": 110,
+      "Vitamina K (mcg)": 299,
+      "Calcio (mg)": 51,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ taza de kale cocido",
+      "Vitamina A (mcg RAE)": 86,
+      "Vitamina K (mcg)": 246,
+      "Vitamina B9 (mcg)": 38,
+      "Hierro (mg)": 1.1,
+      "Magnesio (mg)": 23,
+      "Calcio (mg)": 88,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de kale crudo",
+      "Vitamina A (mcg RAE)": 50,
+      "Vitamina K (mcg)": 82,
+      "Calcio (mg)": 53,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ taza de repollo cocido",
+      "Vitamina K (mcg)": 82,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "1 taza de repollo crudo",
+      "Vitamina K (mcg)": 53,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ chile poblano",
+      "Vitamina C (mg)": 116,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ pimiento amarillo",
+      "Vitamina C (mg)": 58,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ pimiento rojo",
+      "Vitamina C (mg)": 45,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "½ pimiento verde",
+      "Vitamina C (mg)": 32,
+      "Tabla": "Verduras"
+    },
+    {
+      "Alimento": "2 cucharadas semillas de girasol",
+      "Vitamina E (mg)": 4.6,
+      "Hierro (mg)": 1,
+      "Magnesio (mg)": 46,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 cucharada crema de almendras",
+      "Vitamina E (mg)": 3.9,
+      "Magnesio (mg)": 45,
+      "Calcio(mg)": 56,
+      "Zinc (mg)": 0.5,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "10 almendras",
+      "Vitamina E (mg)": 3.1,
+      "Magnesio (mg)": 32,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "2 cucharadas crema de cacahuate",
+      "Vitamina E (mg)": 3,
+      "Magnesio (mg)": 54,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 cucharada de aceite de canola",
+      "Vitamina E (mg)": 2.4,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "½ aguacate",
+      "Vitamina E (mg)": 2,
+      "Vitamina B6 (mg)": 0.3,
+      "Vitamina B9 (mcg)": 81,
+      "Magnesio (mg)": 30,
+      "Zinc (mg)": 0.6,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 cucharada de aceite de oliva",
+      "Vitamina E (mg)": 1.9,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "30 gramos chocolate (70-85% cacao)",
+      "Hierro (mg)": 3.4,
+      "Magnesio (mg)": 65,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "2 cucharadas semillas chía",
+      "Hierro (mg)": 1.5,
+      "Magnesio (mg)": 67,
+      "Calcio(mg)": 129,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 cucharada semillas de hemp (cáñamo)",
+      "Hierro (mg)": 1,
+      "Magnesio (mg)": 70,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 cucharada pepitas / semillas de calabaza",
+      "Hierro (mg)": 1,
+      "Magnesio (mg)": 78,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "2 cucharadas semillas de linaza",
+      "Hierro (mg)": 1,
+      "Calcio(mg)": 46,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 cucharada semillas de ajonjolí",
+      "Hierro (mg)": 1.3,
+      "Magnesio (mg)": 32,
+      "Calcio(mg)": 88,
+      "Zinc (mg)": 1,
+      "Tabla": "Semillas"
+    },
+    {
+      "Alimento": "1 taza de bebida de almendras Silk sin azúcar",
+      "Vitamina A (mcg RAE)": 96,
+      "Vitamina D (mcg)": 0.8,
+      "Vitamina E (mg)": 6,
+      "Vitamina B12 (mcg)": 1.4,
+      "Calcio(mg)": 453,
+      "Zinc (mg)": 1.2,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "1 taza de bebida de soya Silk sin azúcar",
+      "Vitamina A (mcg RAE)": 96,
+      "Vitamina D (mcg)": 0.8,
+      "Vitamina E (mg)": 6,
+      "Vitamina B12 (mcg)": 1.4,
+      "Calcio(mg)": 453,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "30 g de cereal Special K Original",
+      "Vitamina A (mcg RAE)": 200,
+      "Vitamina D (mcg)": 1.5,
+      "Vitamina E (mg)": 3,
+      "Vitamina B9 (mcg)": 48,
+      "Vitamina B12 (mcg)": 0.8,
+      "Hierro (mg)": 3.5,
+      "Calcio(mg)": 150,
+      "Zinc (mg)": 2.5,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "30 g de cereal Corn Flakes “El original”",
+      "Vitamina D (mcg)": 2,
+      "Vitamina B9 (mcg)": 100,
+      "Vitamina B12 (mcg)": 0.8,
+      "Hierro (mg)": 3.5,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "30 g de cereal All-Bran Flakes",
+      "Vitamina D (mcg)": 1.5,
+      "Vitamina B9 (mcg)": 75,
+      "Vitamina B12 (mcg)": 0.6,
+      "Hierro (mg)": 2.6,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "30 g de cereal Cheerios 100% avena ",
+      "Vitamina D (mcg)": 1.5,
+      "Vitamina B12 (mcg)": 0.4,
+      "Hierro (mg)": 9.6,
+      "Calcio(mg)": 99,
+      "Zinc (mg)": 1.7,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "1 taza de espagueti cocido, fideos o sopa de pasta",
+      "Vitamina B9 (mcg)": 170,
+      "Hierro (mg)": 4,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "2 rebanadas de pan integral Natures Own Trigo con miel",
+      "Vitamina B9 (mcg)": 62,
+      "Hierro (mg)": 2,
+      "Calcio(mg)": 90,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "2 rebanadas de pan integral OROWEAT con masa madre",
+      "Vitamina B9 (mcg)": 62,
+      "Hierro (mg)": 6.3,
+      "Magnesio (mg)": 52,
+      "Zinc (mg)": 4.2,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "2 rebanadas de pan Bimbo integral Cero Cero",
+      "Vitamina B9 (mcg)": 55,
+      "Hierro (mg)": 1.9,
+      "Magnesio (mg)": 38,
+      "Zinc (mg)": 1.6,
+      "Tabla": "Enriquecidos"
+    },
+    {
+      "Alimento": "2 rebanadas de pan Bimbo integral ",
+      "Vitamina B9 (mcg)": 39,
+      "Hierro (mg)": 2,
+      "Magnesio (mg)": 40,
+      "Zinc (mg)": 1.3,
+      "Tabla": "Enriquecidos"
+    }
+  ]
+  
