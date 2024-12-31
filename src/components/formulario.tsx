@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import productosData from "../data/alimentos.json";
+import Button from '@mui/material/Button';
 
 interface Producto {
   Alimento: string;
@@ -28,7 +29,7 @@ const FormularioConsumo: React.FC = () => {
   const totalPorPropiedad = (propiedad: keyof Producto) => {
     return productosData.reduce((total, producto) => {
       const cantidad = cantidades[producto.Alimento] || 0;
-      return total + (producto[propiedad] || 0) * cantidad;
+      return total + (Number(producto[propiedad]) || 0) * cantidad;
     }, 0);
   };
 
@@ -52,7 +53,7 @@ const FormularioConsumo: React.FC = () => {
   }, {} as { [key: string]: Producto[] });
 
   return (
-    <div>
+    <div>      
       <form onSubmit={handleSubmit}>
         <h1>Formulario de Consumo de Alimentos</h1>
         {Object.keys(productosAgrupados).map((tabla) => (
