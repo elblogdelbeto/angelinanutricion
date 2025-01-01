@@ -195,7 +195,7 @@
       "Alimento": "1 taza de frijoles cocidos",
       "Vitamina B6 (mg)": 0.4,
       "Vitamina B9 (mcg)": 294,
-      "Hierro (mcg)": 3.6,
+      "Hierro (mg)": 3.6,
       "Magnesio (mg)": 86,
       "Calcio (mg)": 80,
       "Zinc (mg)": 2,
@@ -205,7 +205,7 @@
       "Alimento": "1 taza de lentejas",
       "Vitamina B6 (mg)": 0.4,
       "Vitamina B9 (mcg)": 358,
-      "Hierro (mcg)": 6.6,
+      "Hierro (mg)": 6.6,
       "Magnesio (mg)": 71,
       "Calcio (mg)": 38,
       "Zinc (mg)": 2.5,
@@ -215,7 +215,7 @@
       "Alimento": "1 taza de garbanzos cocidos",
       "Vitamina B6 (mg)": 0.2,
       "Vitamina B9 (mcg)": 282,
-      "Hierro (mcg)": 4.7,
+      "Hierro (mg)": 4.7,
       "Magnesio (mg)": 79,
       "Calcio (mg)": 80,
       "Zinc (mg)": 2.5,
@@ -225,7 +225,7 @@
       "Alimento": "1 taza de garbanzos de lata",
       "Vitamina B6 (mg)": 1.4,
       "Vitamina B9 (mcg)": 72,
-      "Hierro (mcg)": 3.7,
+      "Hierro (mg)": 3.7,
       "Magnesio (mg)": 81,
       "Calcio (mg)": 104,
       "Zinc (mg)": 2,
@@ -233,7 +233,7 @@
     },
     {
       "Alimento": "½ taza de soya cocida",
-      "Hierro (mcg)": 4.4,
+      "Hierro (mg)": 4.4,
       "Magnesio (mg)": 74,
       "Calcio (mg)": 88,
       "Zinc (mg)": 1,
@@ -242,7 +242,7 @@
     {
       "Alimento": "½ taza de edamames cocidos",
       "Vitamina B9 (mcg)": 241,
-      "Hierro (mcg)": 1.8,
+      "Hierro (mg)": 1.8,
       "Magnesio (mg)": 50,
       "Calcio (mg)": 49,
       "Zinc (mg)": 1.1,
@@ -251,14 +251,14 @@
     {
       "Alimento": "½ taza de chícharos cocidos",
       "Vitamina B9 (mcg)": 50,
-      "Hierro (mcg)": 1.2,
+      "Hierro (mg)": 1.2,
       "Magnesio (mg)": 31,
       "Tabla": "Leguminosas"
     },
     {
       "Alimento": "1/3 de taza de frijoles molidos",
       "Vitamina B9 (mcg)": 108,
-      "Hierro (mcg)": 1.5,
+      "Hierro (mg)": 1.5,
       "Calcio (mg)": 43,
       "Zinc (mg)": 1,
       "Tabla": "Leguminosas"
@@ -266,7 +266,7 @@
     {
       "Alimento": "2 tortillas de maíz",
       "Vitamina B9 (mcg)": 2,
-      "Hierro (mcg)": 40,
+      "Hierro (mg)": 40,
       "Magnesio (mg)": 120,
       "Calcio (mg)": 1,
       "Tabla": "Leguminosas"
@@ -274,14 +274,14 @@
     {
       "Alimento": "½ taza de avena",
       "Vitamina B9 (mcg)": 1.7,
-      "Hierro (mcg)": 55,
+      "Hierro (mg)": 55,
       "Zinc (mg)": 1.5,
       "Tabla": "Leguminosas"
     },
     {
       "Alimento": "1 taza de arroz cocido",
       "Vitamina B9 (mcg)": 92,
-      "Hierro (mcg)": 2,
+      "Hierro (mg)": 2,
       "Magnesio (mg)": 20,
       "Zinc (mg)": 1,
       "Tabla": "Leguminosas"
@@ -289,7 +289,7 @@
     {
       "Alimento": "½ taza de quinoa cocida",
       "Vitamina B9 (mcg)": 38,
-      "Hierro (mcg)": 1.4,
+      "Hierro (mg)": 1.4,
       "Magnesio (mg)": 60,
       "Zinc (mg)": 1,
       "Tabla": "Leguminosas"
@@ -297,7 +297,7 @@
     {
       "Alimento": "1 taza de papaya",
       "Vitamina A (mcg RAE)": 68,
-      "Vitamina C (mcg)": 86,
+      "Vitamina C (mg)": 86,
       "Vitamina B9 (mcg)": 54,
       "Magnesio (mg)": 30,
       "Tabla": "Frutas"
@@ -311,62 +311,62 @@
     },
     {
       "Alimento": "3 guayabas",
-      "Vitamina C (mcg)": 227,
+      "Vitamina C (mg)": 227,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 toronja",
-      "Vitamina C (mcg)": 91,
+      "Vitamina C (mg)": 91,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 naranja",
-      "Vitamina C (mcg)": 68,
+      "Vitamina C (mg)": 68,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 taza de frutos rojos",
-      "Vitamina C (mcg)": 63,
+      "Vitamina C (mg)": 63,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "8 fresas",
-      "Vitamina C (mcg)": 60,
+      "Vitamina C (mg)": 60,
       "Vitamina B9 (mcg)": 25,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 taza de mango",
       "Vitamina A (mcg RAE)": 89,
-      "Vitamina C (mcg)": 60,
+      "Vitamina C (mg)": 60,
       "Vitamina B9 (mcg)": 71,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 taza de melón",
       "Vitamina A (mcg RAE)": 270,
-      "Vitamina C (mcg)": 60,
+      "Vitamina C (mg)": 60,
       "Vitamina B9 (mcg)": 34,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "3 limas",
-      "Vitamina C (mcg)": 60,
+      "Vitamina C (mg)": 60,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 kiwi",
-      "Vitamina C (mcg)": 56,
+      "Vitamina C (mg)": 56,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "½ taza de jugo de naranja",
-      "Vitamina C (mcg)": 37,
+      "Vitamina C (mg)": 37,
       "Tabla": "Frutas"
     },
     {
       "Alimento": "1 mandarina",
-      "Vitamina C (mcg)": 30,
+      "Vitamina C (mg)": 30,
       "Tabla": "Frutas"
     },
     {
