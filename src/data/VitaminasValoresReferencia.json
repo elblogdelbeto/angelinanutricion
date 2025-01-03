@@ -1,0 +1,186 @@
+[
+  {
+    "nombreVitamina": "Vitamina A (mcg RAE)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 6300
+  },
+  {
+    "nombreVitamina": "Vitamina A (mcg RAE)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 4900
+  },
+  {
+    "nombreVitamina": "Vitamina B6 (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 50,
+    "sexo": "ambos",
+    "periodicidad": "semanal",
+    "cantidadMinima": 9.1
+  },
+  {
+    "nombreVitamina": "Vitamina B6 (mg)",
+    "edadMinima": 51,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 11.9
+  },
+  {
+    "nombreVitamina": "Vitamina B6 (mg)",
+    "edadMinima": 51,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 10.5
+  },
+  {
+    "nombreVitamina": "Vitamina B9 (mcg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "ambos",
+    "periodicidad": "semanal",
+    "cantidadMinima": 2800
+  },
+  {
+    "nombreVitamina": "Vitamina B12 (mcg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "ambos",
+    "periodicidad": "semanal",
+    "cantidadMinima": 16.8
+  },
+  {
+    "nombreVitamina": "Vitamina C (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 630
+  },
+  {
+    "nombreVitamina": "Vitamina C (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 525
+  },
+  {
+    "nombreVitamina": "Vitamina D (mcg)",
+    "edadMinima": 19,
+    "edadMaxima": 70,
+    "sexo": "ambos",
+    "periodicidad": "semanal",
+    "cantidadMinima": 105
+  },
+  {
+    "nombreVitamina": "Vitamina E (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "ambos",
+    "periodicidad": "semanal",
+    "cantidadMinima": 105
+  },
+  {
+    "nombreVitamina": "Vitamina K (mcg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 840
+  },
+  {
+    "nombreVitamina": "Vitamina K (mcg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 630
+  },
+  {
+    "nombreVitamina": "Hierro (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 56
+  },
+  {
+    "nombreVitamina": "Hierro (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 50,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 133
+  },
+  {
+    "nombreVitamina": "Hierro (mg)",
+    "edadMinima": 51,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 56
+  },
+  {
+    "nombreVitamina": "Magnesio (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 2800
+  },
+  {
+    "nombreVitamina": "Magnesio (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 2100
+  },
+  {
+    "nombreVitamina": "Calcio (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 7000
+  },
+  {
+    "nombreVitamina": "Calcio (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 50,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 7000
+  },
+  {
+    "nombreVitamina": "Calcio (mg)",
+    "edadMinima": 51,
+    "edadMaxima": 70,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 8400
+  },
+  {
+    "nombreVitamina": "Zinc (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "masculino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 77
+  },
+  {
+    "nombreVitamina": "Zinc (mg)",
+    "edadMinima": 19,
+    "edadMaxima": 99,
+    "sexo": "femenino",
+    "periodicidad": "semanal",
+    "cantidadMinima": 56
+  }
+]

@@ -1,6 +1,6 @@
 import React from "react";
 import Tabs from "@mui/material/Tabs";
-import { Box, Tab } from "@mui/material";
+import { Box, Tab, TextField, Grid2 } from "@mui/material";
 import FormularioConsumo from "./FormularioConsumo";
 import SumatoriasTotales from "./SumatoriasTotales";
 import productosData from "../data/alimentos.json";
@@ -37,6 +37,8 @@ function a11yProps(index: number) {
 const Tabulador: React.FC = () => {
   const [value, setValue] = React.useState(0);
   const [cantidades, setCantidades] = React.useState<{ [key: string]: number }>({});
+  const [sexo, setSexo] = React.useState("femenino");
+  const [edad, setEdad] = React.useState<number | "">("");
 
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
     setValue(newValue);
@@ -48,6 +50,41 @@ const Tabulador: React.FC = () => {
 
   return (
     <div>
+      <Grid2 container spacing={2}>
+        <Grid2 size={{ xs: 12, md: 6, xl: 4 }}>
+          <TextField
+            id="sexo-usuario"
+            select
+            label="Sexo"
+            defaultValue={"femenino"}
+            onChange={(e) => setSexo(e.target.value)}
+            fullWidth={true}
+            margin="normal"
+            slotProps={{
+              select: {
+                native: true,
+              },
+            }}
+          >
+            <option key={"femenino"} value={"femenino"}>
+              {"Femenino"}
+            </option>
+            <option key={"masculino"} value={"masculino"}>
+              {"Masculino"}
+            </option>
+          </TextField>
+        </Grid2>
+        <Grid2 size={{ xs: 12, md: 6, xl: 4 }}>
+          <TextField
+            label="Edad"
+            type="number"
+            value={edad}
+            onChange={(e) => setEdad(Math.max(0, parseInt(e.target.value)))}
+            fullWidth
+            margin="normal"
+          />
+        </Grid2>
+      </Grid2>
       <Tabs
         value={value}
         onChange={handleChange}
@@ -115,7 +152,12 @@ const Tabulador: React.FC = () => {
         />
       </CustomTabPanel>
 
-      <SumatoriasTotales cantidades={cantidades} productosData={productosData} />
+      <SumatoriasTotales
+        cantidades={cantidades}
+        productosData={productosData}
+        sexo={sexo}
+        edad={edad}
+      />
     </div>
   );
 };
